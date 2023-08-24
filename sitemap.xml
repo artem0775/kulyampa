@@ -15,4 +15,14 @@
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://artem0775.github.io/kulyampa/new_kulyampa.html</loc>
+        <changefreq>hourly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://artem0775.github.io/kulyampa/new_marchenko_artem_igorovych_jorstkiy_seo_18082023</loc>
+        <changefreq>hourly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
